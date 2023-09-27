@@ -44,8 +44,7 @@ terms:
       platformDataTypeId: bdf6e2aa-9167-4949-9f69-735bbf516472
     isForeignKey: true
     isBusinessKey: true
-tags:
-  - $view#id#c4c9d4dc-04ce-428d-bfdb-0445e8bdd9f7
+tags: []
 relationships:
   - id: 2a530589-7f24-4a98-bbe0-a33bc6490269
     referencedModelObjectId: eed27afe-fce6-4994-a2f6-c47a8be83d62

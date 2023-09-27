@@ -75,9 +75,8 @@ dataflows:
         alias: bfm
         dataflowId: 7381ae05-cb8e-4efc-b9cb-b7daa66a527a
 propertyValues:
-  - propertyId: 713ec758-07f0-4d05-8b91-5d3427261f76 # DeduplicationMethod #SemanticBase PorpertyCode
+  - propertyId: 713ec758-07f0-4d05-8b91-5d3427261f76
     value: Partition
-  - propertyId: a57fa4ce-3f1f-4542-85e0-27c0c5dc9b3f # PartititionOrder #SemanticBase PorpertyCode
+  - propertyId: a57fa4ce-3f1f-4542-85e0-27c0c5dc9b3f
     value: ToBeDecided
-tags:
-  - $view#id#c4c9d4dc-04ce-428d-bfdb-0445e8bdd9f7
+tags: []

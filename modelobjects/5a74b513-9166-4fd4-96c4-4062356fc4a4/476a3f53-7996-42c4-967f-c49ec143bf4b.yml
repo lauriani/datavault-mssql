@@ -591,7 +591,6 @@ dataflows:
             sourceModelObjectId: 99b4d84f-b69c-4874-a973-f61bba2d543d
             alias: s1
 propertyValues:
-  - propertyId: 713ec758-07f0-4d05-8b91-5d3427261f76 # DeduplicationMethod #SemanticBase PorpertyCode
+  - propertyId: 713ec758-07f0-4d05-8b91-5d3427261f76
     value: Distinct
-tags:
-  - $view#id#c4c9d4dc-04ce-428d-bfdb-0445e8bdd9f7
+tags: []

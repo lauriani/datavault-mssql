@@ -36,8 +36,7 @@ terms:
     name: Description
     dataType:
       platformDataTypeId: bdf6e2aa-9167-4949-9f69-735bbf516472
-tags:
-  - $view#id#c4c9d4dc-04ce-428d-bfdb-0445e8bdd9f7
+tags: []
 dataflows:
   - id: 607fe3a6-a6fd-4bb9-86e8-f48165eb9639
     name: Dataflow1
@@ -62,5 +61,5 @@ dataflows:
             id: 5508888f-07b2-4378-8bc1-873be35e7377
             sourceModelObjectId: d0b2aea0-c4e8-46b6-a9ab-7d694a7895f7
 propertyValues:
-  - propertyId: 713ec758-07f0-4d05-8b91-5d3427261f76 # DeduplicationMethod #SemanticBase PorpertyCode
+  - propertyId: 713ec758-07f0-4d05-8b91-5d3427261f76
     value: Distinct

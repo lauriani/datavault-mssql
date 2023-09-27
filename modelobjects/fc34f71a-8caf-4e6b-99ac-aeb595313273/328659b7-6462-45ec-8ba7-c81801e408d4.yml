@@ -44,8 +44,7 @@ terms:
     isBusinessKey: true
     dataType:
       platformDataTypeId: bdf6e2aa-9167-4949-9f69-735bbf516472
-tags:
-  - $view#id#c4c9d4dc-04ce-428d-bfdb-0445e8bdd9f7
+tags: []
 relationships:
   - id: 41e8056d-988d-45cb-95bf-9b4ab19364cb
     referencedModelObjectId: ed55ac1a-a985-4eef-9f63-5490b4e5936d

@@ -32,8 +32,7 @@ terms:
     name: Description
     dataType:
       platformDataTypeId: bdf6e2aa-9167-4949-9f69-735bbf516472
-tags:
-  - $view#id#c4c9d4dc-04ce-428d-bfdb-0445e8bdd9f7
+tags: []
 dataflows:
   - id: 67189b9a-8142-4bfb-93cf-ecda754a4925
     name: Dataflow1
