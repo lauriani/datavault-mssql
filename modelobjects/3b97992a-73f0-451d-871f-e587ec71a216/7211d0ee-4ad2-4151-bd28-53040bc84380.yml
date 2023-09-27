@@ -379,8 +379,7 @@ terms:
     name: Copy Sell-to Addr_ to Qte From
     dataType:
       platformDataTypeId: 9d8d167b-ffbb-4498-8721-de74c859dad5
-tags:
-  - $view#id#c4c9d4dc-04ce-428d-bfdb-0445e8bdd9f7
+tags: []
 relationships:
   - id: 4b02eb4b-3af7-4fcc-ae7c-2413facbc50c
     referencedModelObjectId: f5eb1e5b-49c8-4b03-9b38-8b108f7d774b

@@ -100,8 +100,7 @@ terms:
     name: SALES_AMOUNT
     dataType:
       platformDataTypeId: ea625964-ee65-4825-8d1b-87ebbd7baa31
-tags:
-  - $view#id#c4c9d4dc-04ce-428d-bfdb-0445e8bdd9f7
+tags: []
 relationships:
   - id: dc21e233-f427-4d87-94ee-d70a808ee5ae
     referencedModelObjectId: ddb83d57-c6dc-4a55-8374-298d5b014076

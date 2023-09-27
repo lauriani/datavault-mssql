@@ -37,8 +37,7 @@ terms:
     dataType:
       platformDataTypeId: bdf6e2aa-9167-4949-9f69-735bbf516472
     isBusinessKey: true
-tags:
-  - $view#id#c4c9d4dc-04ce-428d-bfdb-0445e8bdd9f7
+tags: []
 dataflows:
   - id: e1df1058-3ec0-4478-a382-aa2c9e03bd71
     name: Dataflow1

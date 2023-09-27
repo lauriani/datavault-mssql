@@ -571,8 +571,7 @@ terms:
     name: Common Item No_
     dataType:
       platformDataTypeId: bdf6e2aa-9167-4949-9f69-735bbf516472
-tags:
-  - $view#id#c4c9d4dc-04ce-428d-bfdb-0445e8bdd9f7
+tags: []
 relationships:
   - id: d3785afc-aacc-4c52-9f3c-f10f3d3f1b0b
     referencedModelObjectId: eed27afe-fce6-4994-a2f6-c47a8be83d62

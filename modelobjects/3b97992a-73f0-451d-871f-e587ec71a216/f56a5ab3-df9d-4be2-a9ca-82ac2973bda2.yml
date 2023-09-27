@@ -83,8 +83,7 @@ terms:
     name: SUPPLIER_ID
     dataType:
       platformDataTypeId: ea625964-ee65-4825-8d1b-87ebbd7baa31
-tags:
-  - $view#id#c4c9d4dc-04ce-428d-bfdb-0445e8bdd9f7
+tags: []
 relationships:
   - id: 07617505-2e46-4d55-ac68-6d2004815e7d
     referencedModelObjectId: eed27afe-fce6-4994-a2f6-c47a8be83d62
